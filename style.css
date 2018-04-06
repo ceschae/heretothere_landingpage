@@ -1,0 +1,11 @@
+html {
+    font-family: 'Fira Sans', sans-serif;
+}
+
+.bg-here-dark {
+    background-color: #0F1622 !important;
+  }
+
+  .nav-item a{
+      color: white;
+  }
